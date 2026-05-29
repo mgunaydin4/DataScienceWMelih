@@ -15,8 +15,8 @@ Her bir klasör, paylaştığım bir içeriğe ait kaynak kodları içerir:
 ## 🤝 İletişim
 İçeriklerime ve güncellemelerime ulaşmak için:
 
-*   [Instagram Hesabın](URL_BURAYA)
-*   [LinkedIn Hesabın](URL_BURAYA)
+*   [Instagram](URL_BURAYA)
+*   [LinkedIn](https://www.linkedin.com/in/melih-gunaydin/)
 
 ---
 *Melih Günaydın*
